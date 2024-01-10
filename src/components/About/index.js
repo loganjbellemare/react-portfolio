@@ -3,9 +3,7 @@ import AnimatedLetters from '../AnimatedLetters'
 import './index.scss'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
-  faBootstrap,
   faCss3,
-  faGitAlt,
   faGitSquare,
   faHtml5,
   faJs,
